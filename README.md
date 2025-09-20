@@ -44,11 +44,6 @@
 <!-- Streaks -->
 
 <!-- Trophies -->
-<p>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=VishwaJaya01&theme=algolia&no-bg=true&no-frame=true&row=1&column=6" alt="trophies" />
-  </a>
-</p>
 
 ---
 
@@ -57,7 +52,5 @@
 - 📊 Kaggle: <a href="https://kaggle.com/vishwajayasankha">Datasets & notebooks</a>
 - 💼 LinkedIn: <a href="https://lk.linkedin.com/in/vishwajayasankha">Let’s connect</a>
 - ✉️ Email: <a href="mailto:vishwajayasankha@gmail.com">vishwajayasankha@gmail.com</a>
-
----
 
 <!-- End -->
