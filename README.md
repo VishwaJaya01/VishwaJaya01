@@ -60,12 +60,4 @@
 
 ---
 
-<details>
-<summary>🐍 Bonus: Contribution Snake (optional)</summary>
-
-Add this to show a live contribution “snake” below (see instructions in repo Actions):
-
-<img src="https://github.com/VishwaJaya01/VishwaJaya01/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</details>
-
 <!-- End -->
