@@ -42,9 +42,7 @@
 </p>
 
 <!-- Streaks -->
-<p>
-  <img src="https://streak-stats.demolab.com?user=VishwaJaya01&theme=transparent&hide_border=true" alt="GitHub Streak" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=VishwaJaya01&theme=transparent&hide_border=true)](https://streak-stats.demolab.com)
 
 <!-- Trophies -->
 <p>
