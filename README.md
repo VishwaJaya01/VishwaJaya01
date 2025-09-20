@@ -42,7 +42,7 @@
 </p>
 
 <!-- Streaks -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=VishwaJaya01&type=png&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=VishwaJaya01&theme=transparent&hide_border=true&v=3)](https://git.io/streak-stats)
 
 <!-- Trophies -->
 <p>
